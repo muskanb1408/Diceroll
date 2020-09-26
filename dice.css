@@ -1,0 +1,35 @@
+
+body{
+   background-color: rgb(7, 82, 72);
+
+   text-align: center;
+}
+h1{
+
+   color: rgb(8, 87, 8);
+   font-size: 70px;
+   font-style:italic;
+}
+.first{
+  display:inline;
+}
+p{
+  font-size:30px;
+}
+h2{
+  color:red;
+  font-size: 40px;
+     font-style:italic;
+
+}
+h3{
+  padding:20px;
+     color: rgb(8, 87, 8);
+}
+.container{
+  background-color: rgb(140, 252, 168);
+  margin-left:80px;
+  margin-right:80px;
+  padding-bottom:80px;
+
+}
